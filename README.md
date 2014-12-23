@@ -1,4 +1,1 @@
-GitBook Example
-=======
-
-Welcome in your GitBook!
+### Převod software ze starých do nových technologiíOd roku 2006 do roku 2011 jsme v týmu pracovali na převodech aplikací ze starých do nových technologií. Za 5 let jsme převedli 12 aplikací, které byly nasazeny a doposud běží v produkčním prostředí.Konverzních projektů přibývá a cíl této knihy je nasdílet co jsme se během 5 let naučili.Záměrem je poukázat na některé postupy, upozornit na pozitivní nebo možná častěji negativní dopady a hlavně nasdílet co jsme se naučili.
